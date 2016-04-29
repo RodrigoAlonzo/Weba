@@ -10,5 +10,7 @@ Rodrigo Canaza.
 Kali Linux.
 # Requiere : 
 php5-curl 
-#Dowloading : 
+#Downloading : 
 apt-get install php5-curl
+#Downloading "WEBA" : 
+git clone https://github.com/RodrigoAlonzo/Weba.git
