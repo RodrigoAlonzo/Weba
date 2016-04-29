@@ -14,3 +14,6 @@ php5-curl
 apt-get install php5-curl
 #Downloading "WEBA" : 
 git clone https://github.com/RodrigoAlonzo/Weba.git
+cd Weba
+#Forma de uso : 
+php weba.php www.target.com
