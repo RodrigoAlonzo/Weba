@@ -11,7 +11,7 @@ echo "
         \ V  V / | |___| |_) / ___ \ 
          \_/\_/  |_____|____/_/   \_\
         
-       [*] Author : Rodrigo Canaz. \"RACP\"
+       [*] Author : Rodrigo Canaza. \"RACP\"
        [*] Date : 28/4/2016
        [*] Version : 0.0.1 
 
