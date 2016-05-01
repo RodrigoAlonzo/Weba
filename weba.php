@@ -5,6 +5,9 @@
 # Version : 0.0.2
 # Probado : Kali Linux.
 # Requiere : php5-curl // Dowloading : apt-get install php5-curl
+# +++++++++++
+# [+] HTTP STATUS
+# [+] EXTRACT TITLE !
 echo "
       __        _______ ____    _    
       \ \      / / ____| __ )  / \   
