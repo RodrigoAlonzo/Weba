@@ -29,13 +29,13 @@ $ip_comp = gethostbyname("$argv[1]");
 $ip = explode(".",$ip_comp);
 echo "[+]Starting brute force ! \n";
 $num = 0;
-$file=fopen("LIST.txt","w+");
+$file=fopen("list.txt","w+");
 while ($num <= 255 ) {
  $res = $num++;
 fwrite($file,"$ip[0]." . "$ip[1]." . "$ip[2]." . "$res:");
 }
 fclose($file);
-$rata = fopen("LIST.txt","r"); 
+$rata = fopen("list.txt","r"); 
 while(!feof($rata)){
 $lata = fgets($rata); 
 $lata_1 = explode(":",$lata); 
