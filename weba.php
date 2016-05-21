@@ -2,8 +2,10 @@
 # Author : Rodrigo Canaza.
 # Date : 28/4/2016
 # Updated : 30/4/2016
-# Version : 0.0.2
+# Updated : 20/05/2016
+# Version : 0.0.3
 # Probado : Kali Linux.
+# Compatible con windows y linux !
 # Requiere : php5-curl // Dowloading : apt-get install php5-curl
 # +++++++++++
 # [+] HTTP STATUS
@@ -17,7 +19,7 @@ echo "
         
        [*] Author : Rodrigo Canaz. \"RACP\"
        [*] Date : 28/4/2016
-       [*] Version : 0.0.1 
+       [*] Version : 0.0.3 
 
 ";
 if(isset($argv[1])){
