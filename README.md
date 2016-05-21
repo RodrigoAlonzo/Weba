@@ -5,9 +5,9 @@ Rodrigo Canaza.
 # Date : 
 28/4/2016
 # Version : 
-0.0.1
+0.0.3
 # Probado : 
-Kali Linux.
+Compatible con windows y linux !
 # Requiere : 
 php5-curl 
 #Downloading : 
@@ -17,3 +17,5 @@ git clone https://github.com/RodrigoAlonzo/Weba.git
 cd Weba
 #Forma de uso : 
 php weba.php www.target.com
+or windows 
+php.exe weba.php www.target.com
